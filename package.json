@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "name": "ctl-template",
+    "version": "1.0.0",
+    "description": "Embedded JavaScript templates.",
+    "keywords": ["templating", "development"],
+    "author": "Emilis Dambauskas (http://emilis.github.com/) <emilis.d@gmail.com>"
+}
